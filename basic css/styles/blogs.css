@@ -1,0 +1,29 @@
+.page-title{
+    height: 150px;
+    font-size: cover;
+    background-image: url('../_Black\ Gold\ Elegant\ Company\ Business\ Card\ Landscape.png');
+    background-size: 100%;
+    font-size: 50px;
+    background-color: black;
+    
+    
+
+    text-align: center;
+    color:white;
+}
+.title{
+    color: chocolate;
+    text-decoration: underline wavy green;
+    text-align: center;
+
+}
+p{
+    color: rgb(8, 2, 19);
+    border: 2px solid pink;
+    background-color: brown;
+    box-shadow: 10px 10px 10px lightcoral;
+    border-bottom: 10px;
+    border-color: brown;
+    
+  
+}
